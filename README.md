@@ -41,11 +41,11 @@ Or run locally as shown below 👇
 
 ## 🛠️ Installation
 
-```bash
+
 git clone https://github.com/yourusername/ai-resume-analyzer.git
 cd ai-resume-analyzer
 pip install -r requirements.txt
-'''bash
+
 
 🧪 How to Use
 ▶️ Run the app locally
