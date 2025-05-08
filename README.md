@@ -45,6 +45,7 @@ Or run locally as shown below 👇
 git clone https://github.com/yourusername/ai-resume-analyzer.git
 cd ai-resume-analyzer
 pip install -r requirements.txt
+---
 
 🧪 How to Use
 ▶️ Run the app locally
